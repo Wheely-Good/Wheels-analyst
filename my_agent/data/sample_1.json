@@ -1,0 +1,259 @@
+{
+    "metadata": {
+      "filename": "file00001.txt",
+      "date": "1999-12-13",
+      "sex": "female",
+      "country": "Japan",
+      "step": "2",
+      "TOEIC": "615",
+      "TOEFL": "513",
+      "SST_level": "4",
+      "SST_task2": "neighborhood",
+      "SST_task3": "shopping_intermediate",
+      "SST_task4": "restaurant"
+    },
+    "dialogue": {
+      "stage_1": [
+        {
+          "speaker": "examiner",
+          "text": "Hello. My name is XXX01. What is your name?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "My name is XXX02."
+        },
+        {
+          "speaker": "examiner",
+          "text": "Hello, XXX02. How are you?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "I'm fine, but I'm a little nervous."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok."
+        },
+        {
+          "speaker": "examiner",
+          "text": "so, have you been busy these days?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "Yes. Because, I had to hand in my graduation thesis in December, so I was busy, but now I finished it. So."
+        },
+        {
+          "speaker": "examiner",
+          "text": "I see. So now, winter vacation is soon coming, right?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "yes, but now, not yet. maybe next week, winter vacation will start."
+        },
+        {
+          "speaker": "examiner",
+          "text": "I see. What's you plan for the holiday?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "I don't have any plan. Maybe, I work for five or six days. But I don't go any place."
+        },
+        {
+          "speaker": "examiner",
+          "text": "What kind of job will you do?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "I have a part-time job as a receptionist at a computer school. Maybe, twenty eighth or twenty ninth is the last day my work."
+        },
+        {
+          "speaker": "examiner",
+          "text": "I see. and are you going to eat nice new year food after that?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "yes, but, maybe no."
+        },
+        {
+          "speaker": "examiner",
+          "text": "Why?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "Because I don't like Japanese typical new year food, so I want to eat normal food."
+        },
+        {
+          "speaker": "examiner",
+          "text": "really? but they are delicious, I guess."
+        },
+        {
+          "speaker": "candidate",
+          "text": "I don't like Osechi. Why not? since I was I was small, I don't like it."
+        }
+      ],
+      "stage_2": [
+        {
+          "speaker": "examiner",
+          "text": "I see. ok, thank you, XXX02. Now, I'm going to show you a picture. Please describe it."
+        },
+        {
+          "speaker": "candidate",
+          "text": "It's a sunny day, and it's a small town. And there are three houses, but I guess there are lot of houses. And in front of one house, one girl play nawatobi, and then, on the road, one guy is running and he is sweating. And on the road, there is one car, and on the car one cat is sleeping. And near the car two women is talking and one woman is with maybe her dog. And opposite the road, there is one old man reading newspaper and sitting the chair."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok, great, XXX02. Thank you. we see some pets here, but do you have a pet?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "yes. I have one cat. and she has ugly face. She has a lots of colorful hair, and very mixed. That looks like ugly."
+        },
+        {
+          "speaker": "examiner",
+          "text": "How did you get the cat?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "because my cat came my house, and she looks like very hungry. And she was very small, so we thought poor cat, and maybe she was one young cat, and we was getting to give her foods. So, she thought this was my house."
+        },
+        {
+          "speaker": "examiner",
+          "text": "I see. ok. Thank you. Nice family."
+        }
+      ],
+      "stage_3": [
+        {
+          "speaker": "examiner",
+          "text": "ok, thank you. Now please read this card, and let's do the role play. ok? Are you ready?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "Yes."
+        },
+        {
+          "speaker": "examiner",
+          "text": "Hello. May I help you, miss?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "yes. sorry, I want to watch. and I prefer leather watch. do you have something special one?"
+        },
+        {
+          "speaker": "examiner",
+          "text": "Something special?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "Yeah. because I want to give it my father for his birthday. so band is made of leather, I mean. Do you have it?"
+        },
+        {
+          "speaker": "examiner",
+          "text": "yes, but it depends on the price. The designs will be different, so how much can you pay for that?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "maybe I said I'm I want to have special one, but I don't have enough money, so it costs around fifty thousand yen."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. Then you can buy nice one. How about this one? This is nice for a businessman, I guess."
+        },
+        {
+          "speaker": "candidate",
+          "text": "Businessman? but I mi I think it's a little simple."
+        },
+        {
+          "speaker": "examiner",
+          "text": "I see. What kind of design do you like?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "I like this one, but I prefer more decorated."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. Then, how about this one? This is great one, and just fifty thousand yen."
+        },
+        {
+          "speaker": "candidate",
+          "text": "Fifty thousand? yeah. So I want to buy it."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. Thank you. And how would you like to pay?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "by cash."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. ok, here you go. Thank you very much."
+        },
+        {
+          "speaker": "candidate",
+          "text": "Thank you very much."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. Great, XXX02. So, for this Christmas, are you going to buy a present for your father?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "yes. I want to buy some comfortable sweater. But I don't have enough money. so now, I look for some good one."
+        }
+      ],
+      "stage_4": [
+        {
+          "speaker": "examiner",
+          "text": "nice. ok. Thank you, XXX02. Now, please look at this. Make a story using these six pictures. And please start with \"One day last week\"."
+        },
+        {
+          "speaker": "candidate",
+          "text": "\"One day last week\"? ok. one day after class, one university student and his professor go to some restaurant. And his professor recommended one restaurant, so he followeded his professor. And then, his professor has favorite seat, so he said \"I wanted to sit that table.\". And after sitting, one waitress asked them the menu, and university student felt very hungry. So, he asked her big dishes, and his professor said, \"That was ok. you were young so you had better to eat a lot.\". his professor felt very happy and they enjoyed very much. So the university student ordered some beer. And after eating, his professor said, \"That was my treat,\" so his professor paid all money. And university student felt very happy. After that, they said, \"Good-bye.\"."
+        },
+        {
+          "speaker": "examiner",
+          "text": "Good. Thank you. XXX02, does it often happen that students go out drinking with their professor?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "maybe once a week. No, no, no. Week, no, no, no, no. Once a year. After all class finished. Maybe, professor paid all money."
+        },
+        {
+          "speaker": "examiner",
+          "text": "And what do you think of that as a student?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "but when I had a chance to eat with my professor, I felt so nervous, so I don't like it. yes."
+        }
+      ],
+      "stage_5": [
+        {
+          "speaker": "examiner",
+          "text": "Thank you. So the interview is almost over, but what's your plan for this weekend?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "This weekend? This weekend, on Saturday, I'm going to work."
+        },
+        {
+          "speaker": "examiner",
+          "text": "you have to work on Saturday?"
+        },
+        {
+          "speaker": "candidate",
+          "text": "usually I work on Saturday. And on Sunday, I don't have any plan."
+        },
+        {
+          "speaker": "examiner",
+          "text": "ok. Thank you very much for coming in today."
+        },
+        {
+          "speaker": "candidate",
+          "text": "Thank you very much."
+        }
+      ]
+    }
+  }
